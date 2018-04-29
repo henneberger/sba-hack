@@ -1,4 +1,4 @@
-Powered by ![visa](https://github.com/henneberger/sba-hack/raw/master/visa.png =100x)
+Powered by ![visa](https://github.com/henneberger/sba-hack/raw/master/visa.png)
 
 # Small business analytics
 
