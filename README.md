@@ -30,7 +30,9 @@ Setup elasticsearch:
 ```
 wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.2.4.tar.gz
 tar xvf elasticsearch-6.2.4.tar.gz
+bin/elasticsearch-plugin install x-pack
 bin/elasticsearch
+
 ```
 
 Create elastic search indicies:
@@ -81,3 +83,6 @@ sbt run Main retail.csv
 ![screenshot](https://github.com/henneberger/sba-hack/raw/master/screenshot.png)
 ![screenshot](https://github.com/henneberger/sba-hack/raw/master/screenshot-2.png)
 ![screenshot](https://github.com/henneberger/sba-hack/raw/master/screenshot-3.png)
+
+Leverage machine learning- Forecast the future
+![screenshot](https://github.com/henneberger/sba-hack/raw/master/future.png)
