@@ -79,3 +79,5 @@ sbt run Main retail.csv
 ```
 
 ![screenshot](https://github.com/henneberger/sba-hack/raw/master/screenshot.png)
+![screenshot](https://github.com/henneberger/sba-hack/raw/master/screenshot-2.png)
+![screenshot](https://github.com/henneberger/sba-hack/raw/master/screenshot-3.png)
