@@ -77,3 +77,5 @@ Import your csv:
 ```
 sbt run Main retail.csv
 ```
+
+![screenshot](https://github.com/henneberger/sba-hack/raw/master/screenshot.png)
